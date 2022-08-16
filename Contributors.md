@@ -205,6 +205,7 @@ Sattyam Samania
 - [Arjun S](https://github.com/arjunindia)
 - [Salman P Y](https://github.com/salmanpy04)
 - [K8](https://github.com/styerfoam)
+- [Dev-saeedAli](https://github.com/Dev-saeedAli)
 - [Ayush Yadav](https://github.com/ayush-wd)
 - [Zaid Ahmad](https://github.com/Zaid-Ahmad/)
 - [Zeerak](https://github.com/zeerakb1/)
